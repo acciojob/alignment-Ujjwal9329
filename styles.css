@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.center{
+	text-align:center;
+}
+table{
+	width:100%;
+}
+table,td,tr{
+	border:1px solid black;
+}
+.right{
+	text-align:right;
+}
+#t-image{
+	text-align:center;
+}
+#table-2 td,tr{
+	padding:10px
+}
